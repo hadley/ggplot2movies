@@ -1,11 +1,12 @@
 Package: ggplot2movies
-Title: What the Package Does (one line, title case)
 Version: 0.0.0.9000
+Title: Movies Data
+Description: The movies dataset previously hosted in ggplot2, but now moved into
+   its own package to reduce download size.
 Authors@R: c(
     person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre")),
     person("RStudio", role = "cph")
   )
-Description: What the package does (one paragraph).
 Depends: R (>= 3.2.1)
 License: GPL-3
 LazyData: true
