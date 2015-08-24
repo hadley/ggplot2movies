@@ -34,6 +34,10 @@ the data collection process,
 Movies were selected for inclusion if they had a known length and had been
 rated by at least one imdb user.
 }
+\examples{
+dim(movies)
+head(movies)
+}
 \references{
 \url{http://had.co.nz/data/movies/}
 }

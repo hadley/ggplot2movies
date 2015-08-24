@@ -1,3 +1,7 @@
+This is a resubmission. Compared to the last version:
+
+* It now contains a small example.
+
 ## Test environments
 * local OS X install, R 3.2.1
 * ubuntu 12.04 (on travis-ci), R 3.2.1
