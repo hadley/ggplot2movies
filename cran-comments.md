@@ -1,6 +1,8 @@
 This is a resubmission. Compared to the last version:
 
-* It now contains a small example.
+* The description now has "moved its own package" instead of 
+  "movied its own package" even though the flip was very apropos ;)
+
 
 ## Test environments
 * local OS X install, R 3.2.1
