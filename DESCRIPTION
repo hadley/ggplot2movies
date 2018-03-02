@@ -1,5 +1,5 @@
 Package: ggplot2movies
-Version: 0.0.1
+Version: 0.0.2.9000
 Title: Movies Data
 Description: A dataset about movies. This was previously contained in ggplot2,
    but has been moved its own package to reduce the download size of ggplot2.
@@ -7,6 +7,9 @@ Authors@R: c(
     person("Hadley", "Wickham", , "hadley@rstudio.com", role = c("aut", "cre")),
     person("RStudio", role = "cph")
   )
+URL: https://github.com/hadley/ggplot2movies
+BugReports: https://github.com/hadley/ggplot2movies
 Depends: R (>= 2.10.0)
 License: GPL-3
 LazyData: true
+RoxygenNote: 6.0.1.9000
