@@ -25,7 +25,7 @@
 #'   \item action, animation, comedy, drama, documentary, romance, short.
 #'     Binary variables representing if movie was classified as belonging to that genre.
 #' }
-#' @references \url{http://had.co.nz/data/movies/}
+#' @references \url{https://github.com/hadley/ggplot2movies}
 #' @examples
 #' dim(movies)
 #' head(movies)
