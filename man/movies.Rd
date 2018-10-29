@@ -4,7 +4,7 @@
 \name{movies}
 \alias{movies}
 \title{Movie information and user ratings from IMDB.com.}
-\format{A data frame with 28819 rows and 24 variables
+\format{A tibble with 58788 rows and 24 variables
 \itemize{
   \item title.  Title of the movie.
   \item year.  Year of release.
